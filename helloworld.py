@@ -1,0 +1,5 @@
+print("Hello")
+name = input("What is your name?")
+print("Hello", name ,"it's nice to meet you.")
+question = input("Do you have a question for me?")
+print("You asked me: " + "'" + question + "'" + input("is that right?"))
